@@ -2,7 +2,10 @@
 
 [DEMO website](https://gatsby-starter-personal-blog.greglobinski.com/)
 
-More details soon. For now a couple of annotations.
+##Getting started
+1. Download and install the theme
+ `gatsby new <sitedirectory> https://github.com/greglobinski/gatsby-starter-personal-blog`
+ 
 
 The starter is ready to play with. You should to know at least two things.
 
