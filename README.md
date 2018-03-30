@@ -2,9 +2,13 @@
 
 [DEMO website](https://gatsby-starter-personal-blog.greglobinski.com/)
 
-##Getting started
+## Getting started
+
 1. Download and install the theme
  `gatsby new <sitedirectory> https://github.com/greglobinski/gatsby-starter-personal-blog`
+2. Go to the new <sitedirectory>
+  `cd <sitedirectory`
+
  
 
 The starter is ready to play with. You should to know at least two things.
